@@ -1,4 +1,6 @@
 Dataset: https://www.dropbox.com/s/p51wpvtpf9to438/SROIE.zip?dl=1
+
+
 In order for a machine to extract data from physical documents, optical character recognition (OCR) technologies are used. The most common OCR engine before the development of neural networks was the Tesseract engine. In addition to it, popular products from ABBYY, such as ABBYY FineReader, are also widely used. However, there are other OCR tools that are less known to the general public.
 
 There is also the development of the Chinese search engine Baidu PaddleOCR. This library is written in Python and provides access to a large number of models for text recognition in various languages.
